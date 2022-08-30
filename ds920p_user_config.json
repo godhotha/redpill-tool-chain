@@ -1,0 +1,11 @@
+{
+    "extra_cmdline": {
+        "pid": "0x6544",
+        "vid": "0x0930",
+        "sn": "2030SBRM1VA6V",
+        "mac1": "0011327F7EB6"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
